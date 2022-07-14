@@ -1,0 +1,172 @@
+font-family {
+    font-family: 'Arima', cursive;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Prompt', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+}
+.background-image {
+    background-image: url(/images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    height: 80vh;
+    overflow: hidden;
+
+    text-align: center;
+}
+#top-header {
+
+    margin-top: 4%;
+    font-size: 50px;
+    color: whitesmoke;
+    text-align: center;
+    font-weight: 700;
+}
+#second-top-header {
+
+    font-size: 50px;
+    color: whitesmoke;
+    text-align: center;
+    font-weight: 700;
+}
+#top-paragraph {
+
+    color: white;
+}
+.inspired-paragraph {
+    font-size: 16px;
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+    color: azure;
+}
+
+.donate-button {
+    background-color: rgb(240, 237, 237);
+    border-radius: 20px;
+    color: rgb(241, 150, 150);
+    font-size: 20px;
+    text-decoration: none;
+    text-align: center;
+    padding: 5px;
+
+}
+.donate-banner-header {
+    text-align: center;
+    font-size: 40px;
+    margin-top: 250px;
+    font-weight: 700;
+    color: black;
+}
+.contribute-banner {
+    width: 50%;
+    padding-left: 5%;
+    padding-top: 10%;
+    border-radius: 10px;
+}
+
+.contribute-banner h1 {
+    font-size: 40px;
+
+}
+.contribute-banner a {
+    background-color: tomato;
+    border-radius: 20px;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 10px;
+    display: 50%;
+}
+.plan-flex {
+    display: flex;
+}
+.plan-flex-box {
+    display: flex;
+}
+
+.child-div1 {
+    width: 33.3%;
+    background-color: rgb(105, 121, 134);
+}
+.donate-amount {
+    background-color: rgb(233, 193, 193);
+    border-radius: 20px;
+    color: rgb(5, 5, 5);
+    font-size: 20px;
+    text-decoration: none;
+    text-align: center;
+    padding: 5px;
+    margin-left: 45%;
+
+}
+.contribute-banner img {
+    width: 100%;
+}
+
+.amount-banner-section {
+    display: flex;
+    margin-left: 25%;
+}
+
+.amount-button {
+    background-color: rgba(218, 218, 218, 0.5);
+    padding: 1% 2% 1% 2%;
+    margin: 5px;
+    border-radius: 5px;
+    font-size: 25px;
+}
+
+#marked-button {
+    background-color: rgba(241, 157, 199, 0.6);
+    padding: 1% 2% 1% 2%;
+    margin: 5px;
+    border-radius: 5px;
+    font-size: 25px;
+    border: 1px solid tomato;
+}
+
+#manual-tk {
+    border: none;
+    margin-left: 45%;
+    margin-bottom: 10px;
+}
+
+hr {
+    width: 70%;
+}
+
+.inspired-paragraph {
+    text-align: center;
+    color: black;
+}
+
+.subcribe-button {
+    background-color: rgb(226, 214, 209);
+    text-decoration: none;
+    border: none;
+
+
+    padding: 0px;
+
+    text-align: center;
+}
+
+.footer-credit {
+    text-align: center;
+}
+
+.footer-section {
+    background-color: aqua;
+}
+#footer {
+    font-family: 'Dancing Script', cursive;
+    font-weight: 700;
+    font-size: 50px;
+    color: tomato;
+    padding-bottom: 20px;
+    text-align: center;
+}
